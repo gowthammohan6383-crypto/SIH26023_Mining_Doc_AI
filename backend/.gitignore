@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+mining_docs.db
+uploads/*
+!uploads/.gitkeep
